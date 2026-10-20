@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&weight=600&size=20&color=2DD4BF&center=true&vCenter=true&width=500&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+micle1742+%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%93%B0%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A7%80%EA%B8%88%EC%9D%80+TIERON+%EA%B0%9C%EB%B0%9C+%EC%A4%91" />
-
----
 
 ### 🌱 About Me
 
@@ -58,8 +55,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
----
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&size=16&color=2DD4BF&center=true&vCenter=true&width=400&height=40&lines=%EB%8B%A4%EC%9D%8C+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C+%EB%8B%A4%EC%8B%9C+%EB%A7%8C%EB%82%98%EC%9A%94!" />
 
 </div>
